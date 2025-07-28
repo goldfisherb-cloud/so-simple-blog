@@ -19,7 +19,6 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "My Awesome Site"
 description: "It really is the best."
-baseurl: # the subpath of your site, e.g. "/so-simple-blog/"
 url: "https://goldfisherb-cloud.github.io"
 baseurl: "/so-simple-blog"
 date_format: "%B %-d, %Y"
