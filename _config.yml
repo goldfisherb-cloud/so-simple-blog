@@ -17,8 +17,8 @@
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "My Awesome Site"
-description: "It really is the best."
+title: "思考者的寫字星球"
+description: "科學、哲學與奇想交錯的宇宙"
 url: "https://goldfisherb-cloud.github.io"
 baseurl: "/so-simple-blog"
 date_format: "%B %-d, %Y"
