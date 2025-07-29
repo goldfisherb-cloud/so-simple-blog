@@ -32,8 +32,8 @@ google_fonts:
   - name: "Noto Sans TC"
     weights: "400,700"
 
-header_font: "Noto Sans TC"
-body_font: "Noto Sans TC"
+header_font: "'Noto Sans TC', 'Microsoft JhengHei', 'Heiti TC', sans-serif"
+body_font: "'Noto Sans TC', 'Microsoft JhengHei', 'Heiti TC', sans-serif"
 
 google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
