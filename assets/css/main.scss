@@ -37,8 +37,20 @@ h1, h2, h3, h4, h5, h6 {
   h2 {
     font-size: 20px;
   }
-}
 
+  .wrapper,
+  .archive,
+  .page,
+  .post,
+  .page-content {
+    padding: 1rem;
+  }
+
+  .site-description {
+    font-size: 0.9rem;
+    padding: 0 1rem;
+  }
+}
 /* 讓文章段落靠左 */
 p {
   text-align: left;
