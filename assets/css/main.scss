@@ -14,16 +14,19 @@ h1 {
 
 /* 全站中文字體設定 */
 body {
-  font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", "Heiti TC", sans-serif;
+  font-family: "Microsoft JhengHei", "Noto Sans TC", "PingFang TC", "Heiti TC", sans-serif;
   line-height: 1.75;
 }
 
 /* 所有標題字也設同樣字型 */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", "Heiti TC", sans-serif;
+ font-family: "Microsoft JhengHei", "Noto Sans TC", "PingFang TC", "Heiti TC", sans-serif;
   font-weight: 700;
 }
-
+.site-title, .masthead .site-title {
+  font-style: normal !important;
+  font-family: "Microsoft JhengHei", sans-serif !important;
+}
 /* 響應式：小螢幕下縮小文字 */
 @media (max-width: 600px) {
   body {
