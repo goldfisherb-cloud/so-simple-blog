@@ -1,6 +1,13 @@
 ---
-layout: category
+layout: default
 title: 生活
-category: life
 permalink: /life/
 ---
+
+<h2>生活札記 Life</h2>
+<ul>
+  {% assign posts = site.categories.life %}
+  {% for post in posts %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}</li>
+  {% endfor %}
+</ul>
