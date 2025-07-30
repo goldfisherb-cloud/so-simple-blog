@@ -35,8 +35,14 @@ permalink: /about/
 </div>
 
 ---
+---
 
-<div style="text-align: center;">
-  <img src="{{ '/assets/images/thinker-planet.png' | relative_url }}" alt="思考者坐在星球上" style="max-width: 400px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
-  <p style="font-size: 0.9em; color: #888;">願我們在浩瀚中，一起思考。</p>
+<div style="text-align: center; margin-top: 40px;">
+  <picture>
+    <img src="{{ '/assets/images/thinker-planet.png' | relative_url }}"
+         alt="思考者坐在星球上"
+         style="width: 100%; max-width: 500px; height: auto; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.2);" />
+  </picture>
+  <p style="font-size: 0.9em; color: #666; margin-top: 8px;">願我們在浩瀚中，一起思考。</p>
 </div>
+
