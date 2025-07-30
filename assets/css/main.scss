@@ -50,3 +50,27 @@ p {
   margin: 0 auto;
   padding: 1.5rem;
 }
+
+/* 調整所有文章容器的寬度與置中 */
+.wrapper,
+.archive,
+.page,
+.post,
+.page-content {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 1.5rem;
+}
+
+/* 讓文章段落靠左 */
+p {
+  text-align: left;
+}
+/* 修正副標（description）排版 */
+.site-description {
+  display: block;
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  text-align: center;
+  color: #444;
+}
