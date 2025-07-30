@@ -29,8 +29,8 @@ permalink: /about/
 
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top: 40px; text-align: center;">
   <p style="font-size: 1.1em; margin: 0 0 10px 0;">📮 想寫信給思考者嗎？</p>
-  <a href="mailto:thinkerplanet.contact.email@example.com" style="font-size: 1.2em; color: #3366cc; text-decoration: none; font-weight: bold;">
-    your.email@example.com
+  <a href="mailto:thinkerplanet.contact@gmail.com" style="font-size: 1.2em; color: #3366cc; text-decoration: none; font-weight: bold;">
+    thinkerplanet.contact@gmail.com
   </a>
 </div>
 
