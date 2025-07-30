@@ -86,3 +86,8 @@ p {
   text-align: center;
   color: #444;
 }
+
+/* 修正文章列表中斜體標題 */
+.entry-title {
+  font-style: normal !important;
+}
