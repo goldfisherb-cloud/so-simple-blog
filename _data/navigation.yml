@@ -1,8 +1,14 @@
 # Sample site navigation bar links
 
-- title: 首頁
+- title: Home
   url: /
 - title: 關於我
   url: /about/
-- title: 所有文章
-  url: /blog/
+- title: 哲思
+  url: /philosophy/
+- title: 科普
+  url: /science/
+- title: 創作
+  url: /fiction/
+- title: 生活
+  url: /life/
