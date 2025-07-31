@@ -10,8 +10,8 @@ tags:
   - 卡繆
   - 人生意義
   - 虛無
-
-alt: "深夜仰望星空的人，畫面靜謐空靈，呼應存在主義對虛無的凝視"
+image: /assets/images/existential_crisis_why_live_illustration.png
+alt: "深夜中仰望星空的沉思者，象徵人類面對生命虛無的哲學疑問"
 read_time: 6
 description: "如果你半夜三點也曾問「為什麼要活著」，這篇文章寫給你。從存在焦慮、到存在主義哲學，我走過那段找不到意義的時期，如今願意陪你一起問。"
 ---
@@ -111,7 +111,5 @@ description: "如果你半夜三點也曾問「為什麼要活著」，這篇文
 
 接下來的文章裡，我會慢慢介紹這些陪我撐過虛無的哲學家們——  
 包括薩特、卡謬、尼采，他們說的話，也許能陪你多走一點點路。
-
-![深夜仰望星空的人，畫面靜謐空靈，呼應存在主義對虛無的凝視](/assets/images/meaningless_world_illustration.png)
 
 
