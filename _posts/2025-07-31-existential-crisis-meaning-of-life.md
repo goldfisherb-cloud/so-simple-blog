@@ -3,6 +3,7 @@ layout: post
 title: "給半夜三點突然思考「人為什麼要活著」的你"
 date: 2025-07-31
 categories: philosophy
+author: 思橋
 tags:
   - 存在主義
   - 尼采
