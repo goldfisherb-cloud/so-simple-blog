@@ -11,8 +11,6 @@ tags:
   - 人生意義
   - 虛無
 
-image: /assets/images/meaningless_world_illustration.png
-
 alt: "深夜仰望星空的人，畫面靜謐空靈，呼應存在主義對虛無的凝視"
 read_time: 6
 description: "如果你半夜三點也曾問「為什麼要活著」，這篇文章寫給你。從存在焦慮、到存在主義哲學，我走過那段找不到意義的時期，如今願意陪你一起問。"
