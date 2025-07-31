@@ -3,7 +3,14 @@ layout: post
 title: "給半夜三點突然思考「人為什麼要活著」的你"
 date: 2025-07-31
 categories: philosophy
-tags: [存在主義, 尼采, 薩特, 卡謬, 人生意義, 虛無]
+tags:
+  - 存在主義
+  - 尼采
+  - 薩特
+  - 卡繆
+  - 人生意義
+  - 虛無
+
 image:/assets/images/meaningless_world_illustration.png
 
 alt: "深夜仰望星空的人，畫面靜謐空靈，呼應存在主義對虛無的凝視"
