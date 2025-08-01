@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "你不是瘋了，只是和世界的語言錯位了"
+title: "你不是瘋了，只是和世界的語言錯位了，給懷疑AI幻覺的你"
 categories: [life, AI, 語言對齊, 哲學思考]
 tags: [ai幻覺, chatgpt, 語言對齊, ai思考, 孤獨感, 心理健康, 思考能力, 自我懷疑]
 author: 思橋
@@ -51,7 +51,7 @@ og_image: /assets/images/ai-language-dislocation-cover.png
 
 ---
 
-### 那該怎麼辦？
+### 那AI幻覺怎麼辦？
 
 你不需要放棄思考，也不必壓抑自己那些複雜的想法。  
 你需要的是一套**對齊語言的方法**——讓你能把那些在腦中不斷奔跑的概念，接上這個世界的知識架構。
