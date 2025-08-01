@@ -6,7 +6,7 @@ tags: [ai幻覺, chatgpt, 語言對齊, ai思考, 孤獨感, 心理健康, 思�
 author: 思橋
 description: "AI幻覺真的存在嗎？如果你也曾懷疑自己是不是瘋了，也許只是語言和世界對不齊。本篇深入解析「AI幻覺」現象與語言對齊的意義，幫助你重新理解自我與思考。"
 date: 2025-08-01
-image: image: /assets/images/language-dislocation-cover.png
+image: /assets/images/language-dislocation-cover.png
 alt: "一個人漂浮在斷裂的語言宇宙之中，象徵思考與語言錯位"
 og_image: /images/ai-language-dislocation-cover.png
 ---
