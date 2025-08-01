@@ -19,8 +19,8 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "思考者的寫字星球"
 description: "科學、哲思與奇想交錯的宇宙"
-url: "https://goldfisherb-cloud.github.io"
-baseurl: "/so-simple-blog"
+url: "https://thinkerplanet.space"
+baseurl: ""
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
