@@ -11,7 +11,7 @@ alt: "一個人漂浮在斷裂的語言宇宙之中，象徵思考與語言錯�
 og_image: /images/ai-language-dislocation-cover.png
 ---
 
-<img src="/images/ai-language-dislocation-cover.jpg" alt="一個人漂浮在斷裂的語言宇宙之中，象徵思考與語言錯位" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
+<img src="/assets/images/language-dislocation-cover.png" alt="一個人漂浮在斷裂的語言宇宙之中，象徵思考與語言錯位" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
 
 
 給懷疑AI幻覺的你
