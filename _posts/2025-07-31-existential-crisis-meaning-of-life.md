@@ -16,6 +16,7 @@ alt: "深夜中仰望星空的沉思者，象徵人類面對生命虛無的哲�
 read_time: 6
 description: "如果你半夜三點也曾問「為什麼要活著」，這篇文章寫給你。從存在焦慮、到存在主義哲學，我走過那段找不到意義的時期，如今願意陪你一起問。"
 ---
+<img src="/assets/images/existential_crisis_why_live_illustration.png" alt="深夜中仰望星空的沉思者，象徵人類面對生命虛無的哲學疑問" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
 
 給半夜三點突然思考「人為什麼要活著」、「人生有什麼意義」的你：
 
