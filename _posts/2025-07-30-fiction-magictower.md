@@ -2,6 +2,7 @@
 title: "魔法塔裡沒有魔法"
 date: 2025-07-30
 categories: fiction
+author: 思橋
 tags:
   - 奇幻
   - 體制
