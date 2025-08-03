@@ -9,7 +9,7 @@ tags:
   - 創新
   - 創作者
 excerpt: "一個關於創造與體制的奇幻故事。當一位年輕魔法師帶著他的創新想法走進最權威的魔法塔，他以為自己找到了通往真理的道路。卻發現，在那座用千年知識堆砌的高塔裡，只有被允許存在的答案，沒有真正的魔法。"
-image: "/assets/images/magic-tower-teaser.png"
+image: /assets/images/magic-tower-teaser.png
   alt: "一座高聳入雲的魔法塔，象徵著權威的學術殿堂"
   description: "魔法塔裡沒有魔法 - 一個關於創造與體制的奇幻故事"
   og_image: /assets/magic-tower-teaser.png
