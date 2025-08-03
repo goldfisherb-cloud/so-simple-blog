@@ -1,7 +1,7 @@
 ---
 title: "一根不見了的骨頭"
 date: 2025-07-30
-categories: biology
+categories: science
 author: 思橋
 tags:
   - 生物學
