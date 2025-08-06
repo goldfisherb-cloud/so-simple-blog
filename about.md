@@ -36,7 +36,7 @@ permalink: /about/
 
   <p style="font-size: 1em; margin-top: 20px;">
   📡 如果你喜歡這顆思考者星球，願它繼續在宇宙繼續運轉，<br>
-  歡迎 <a href="https://thinkerplanet.boboba.me" target="_blank" style="color: #cc3366; font-weight: bold; text-decoration: none;">請我喝杯珍珠奶茶 🧋</a>，讓我繼續創作、繼續思考。
+  歡迎 <a href="https://thinkerplanet.boboba.me" target="_blank" style="color: #cc3366; font-weight: bold; text-decoration: none;">請我喝杯珍珠奶茶🥤 </a>，讓我繼續創作、繼續思考。
 </p>
 
 </div>
