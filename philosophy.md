@@ -13,7 +13,7 @@ permalink: /philosophy/
       {% if post.image %}
         <header class="entry-header">
           <div class="entry-image">
-            <img src="{{ post.image }}" alt="{{ post.title }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="max-width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
           </div>
         </header>
       {% endif %}
@@ -38,6 +38,12 @@ permalink: /philosophy/
                 <span class="tag">{{ tag }}</span>
               {% endfor %}
             </div>
+          {% endif %}
+        </footer>
+      </div>
+    </article>
+  {% endfor %}
+</div>
           {% endif %}
         </footer>
       </div>
