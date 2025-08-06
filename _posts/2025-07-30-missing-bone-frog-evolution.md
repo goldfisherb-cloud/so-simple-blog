@@ -76,7 +76,7 @@ image: /assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg
 
 ## 為什麼要融合？一場力學模擬告訴我們
 <figure>
-  <img src="/assets/images/fusion_diagram_for_medium.jpg" alt="青蛙前肢演化的幾種可能版本示意圖：完全分離、半融合、完全融合。研究發現，半融合的結構最適合跳躍時承受衝擊力。" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
+  <img src="/assets/images/frog_forearm_fusion_diagram.png" alt="青蛙前肢演化的幾種可能版本示意圖：完全分離、半融合、完全融合。研究發現，半融合的結構最適合跳躍時承受衝擊力。" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
   <figcaption>圖4：青蛙前肢演化的幾種可能版本示意圖：完全分離、半融合、完全融合。研究發現，半融合的結構最適合跳躍時承受衝擊力</figcaption>
 </figure>
 
