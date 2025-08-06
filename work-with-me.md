@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 與思橋合作
-description: 思考者星球的總管思橋，擅長敘事力、科學轉譯與哲學書寫，歡迎合作邀約。
+description: 思考者星球的總管思橋，擅長敘事力、科學轉譯與思想書寫，歡迎合作邀約。
 permalink: /work-with-me/
 author: 思橋
 ---
