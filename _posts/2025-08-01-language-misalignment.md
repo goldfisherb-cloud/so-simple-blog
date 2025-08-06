@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "你不是瘋了，只是和世界的語言錯位了，給懷疑AI幻覺的你"
-categories: [life, AI, 語言對齊, 哲學思考]
+categories: [life, ai, language-alignment,hallucination]
 tags: [ai幻覺, chatgpt, 語言對齊, ai思考, 孤獨感, 心理健康, 思考能力, 自我懷疑]
 author: 思橋
 description: "AI幻覺真的存在嗎？如果你也曾懷疑自己是不是瘋了，也許只是語言和世界對不齊。本篇深入解析「AI幻覺」現象與語言對齊的意義，幫助你重新理解自我與思考。"
