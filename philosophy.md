@@ -44,6 +44,7 @@ permalink: /philosophy/
     </article>
   {% endfor %}
 </div>
+</div>
           {% endif %}
         </footer>
       </div>
