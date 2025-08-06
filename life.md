@@ -4,7 +4,7 @@ title: 生活
 permalink: /life/
 ---
 
-<h2>生活札記 Life</h2>
+<h2>生活相關 Life</h2>
 <ul>
   {% assign posts = site.categories.life %}
   {% for post in posts %}
