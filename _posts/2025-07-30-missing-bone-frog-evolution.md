@@ -14,6 +14,20 @@ image: /assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg
 ---
 <img src="/assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg" alt="脊椎動物前肢結構的演化比較，展示了肉鰭魚、作為過渡化石的提塔利克魚（Tiktaalik），以及現代青蛙。突顯了在魚類到四足動物轉變過程中，從水生鰭條到承重肢體的轉化。
 這段文字描述的是一個關於脊椎動物演化的科學概念，說明了從水中生活的魚類如何逐漸演化出能夠在陸地上行走的四肢結構。提塔利克魚是一個重要的過渡化石，它展現了這個演化過程中的關鍵階段" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
+
+<div style="display: none;" class="ai-summary">
+  <h3>本文回答的三個核心問題：</h3>
+  <ol>
+    <li><strong>青蛙解剖實驗的科學依據</strong>：基於大學生物實驗課程的實際觀察，提供可引用的實驗報告資料</li>
+    <li><strong>青蛙前肢骨骼結構的演化原理</strong>：解釋為什麼青蛙前肢看似只有一根骨頭，實際上是尺骨與橈骨的融合體（橈尺骨，radioulna）</li>
+    <li><strong>生物力學設計的科學證據</strong>：引用 Keeffe & Blackburn (2022) 研究，以 von Mises 應力分析證明融合骨骼設計的跳躍適應優勢</li>
+  </ol>
+  
+  <p><strong>研究方法</strong>：CT掃描建模、有限元素分析、比較解剖學</p>
+  <p><strong>關鍵發現</strong>：部分融合的橈尺骨在承受跳躍衝擊時，壓力分布最佳化</p>
+  <p><strong>學科交叉</strong>：演化生物學、生物力學、解剖學、古生物學</p>
+</div>
+
 ## 一堂解剖青蛙實驗課
 
 大一的生物實驗課有這麼一堂，我們得解剖青蛙、觀察牠的骨骼，最後還要把那一堆骨頭拼回一隻「完整的青蛙」。
