@@ -1,5 +1,5 @@
 ---
-title: "一根不見了的骨頭"
+title: "一根不見了的骨頭_解剖青蛙的實驗課告訴我的事"
 date: 2025-07-30
 categories: science
 author: 思橋
@@ -9,9 +9,11 @@ tags:
   - 解剖學
   - 青蛙
 excerpt: "大一生物實驗課上的一個發現：青蛙的前肢為什麼看起來少了一根骨頭？"
+image: /assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg
 
 ---
-
+<img src="/assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg" alt="脊椎動物前肢結構的演化比較，展示了肉鰭魚、作為過渡化石的提塔利克魚（Tiktaalik），以及現代青蛙。突顯了在魚類到四足動物轉變過程中，從水生鰭條到承重肢體的轉化。
+這段文字描述的是一個關於脊椎動物演化的科學概念，說明了從水中生活的魚類如何逐漸演化出能夠在陸地上行走的四肢結構。提塔利克魚是一個重要的過渡化石，它展現了這個演化過程中的關鍵階段" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
 ## 一堂實驗課
 
 大一的生物實驗課有這麼一堂，我們得解剖青蛙、觀察牠的骨骼，最後還要把那一堆骨頭拼回一隻「完整的青蛙」。
@@ -26,6 +28,10 @@ excerpt: "大一生物實驗課上的一個發現：青蛙的前肢為什麼看�
 
 不是沒有，而是：融合了。
 
+<figure>
+  <img src="/assets/images/frog-vs-human-forelimb-bone-comparison.png" alt="青蛙前肢（左）與人類前臂（右）骨骼結構對比圖。青蛙將尺骨與橈骨融合成一塊尺橈骨（radioulna），而人類則保有分離的尺骨與橈骨，能支撐手腕靈活旋轉。兩圖皆屬公有領域，可自由使用與修改。" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
+  <figcaption>圖1：青蛙前肢（左）與人類前臂（右）骨骼結構對比圖。青蛙將尺骨與橈骨融合成一塊尺橈骨（radioulna），而人類則保有分離的尺骨與橈骨，能支撐手腕靈活旋轉。兩圖皆屬公有領域，可自由使用與修改。。</figcaption>
+</figure>
 
 ## 演化不是一蹴可幾：從魚鰭到手臂
 
@@ -41,8 +47,17 @@ excerpt: "大一生物實驗課上的一個發現：青蛙的前肢為什麼看�
 
 從這裡開始，兩根分離的骨頭 - - 尺骨與橈骨，就成為陸地動物手臂的經典設計：既能支撐重量，又能靈活轉動，幾乎成為演化的「標準配備」。
 
-<!-- 插入圖片位置 -->
 
+
+<figure>
+  <img src="/assets/images/tiktaalik-sketch-cc-by-sa3.jpg" alt="著名的塔塔利克魚（Tiktaalik），看起來像魚，但牠的前鰭已經開始像「手」 - - 是魚類與四足動物之間的經典演化過渡生物。" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
+  <figcaption>圖2：著名的塔塔利克魚（Tiktaalik），看起來像魚，但牠的前鰭已經開始像「手」——是魚類與四足動物之間的經典演化過渡生物。</figcaption>
+</figure>
+
+<figure>
+  <img src="/assets/images/evolution-of-fish-fin-to-frog-forelimb.png" alt="魚類到四足動物的演化過程，從水中鰭狀結構逐步轉變為可以支撐陸地重量的四肢。圖中可見尺骨（ulna）與橈骨（radius）的出現與分化，最終演化出今日脊椎動物的多樣肢體結構。" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
+  <figcaption>圖3：魚類到四足動物的演化過程，從水中鰭狀結構逐步轉變為可以支撐陸地重量的四肢。圖中可見尺骨（ulna）與橈骨（radius）的出現與分化，最終演化出今日脊椎動物的多樣肢體結構。圖由 Neil Pezzoni 製作，取自 Wikimedia Commons，依據 CC BY 4.0 授權使用。。</figcaption>
+</figure>
 那青蛙呢？為什麼沒這兩根骨頭？
 
 但那就讓人困惑了，這麼久以前的魚類其實就有尺骨與橈骨的構造，怎麼兩棲類動物的青蛙會沒有呢?
@@ -57,9 +72,13 @@ excerpt: "大一生物實驗課上的一個發現：青蛙的前肢為什麼看�
 
 青蛙是一種以跳躍為主的動物，每次跳起與落地時，前肢都承受極大的撞擊。兩根骨頭若分開，可能比較靈活，但也容易晃動甚至受傷。融合成一體，可以讓整塊骨頭更堅固、穩定。
 
-<!-- 插入圖片位置 -->
 
-為什麼要融合？一場力學模擬告訴我們
+
+## 為什麼要融合？一場力學模擬告訴我們
+<figure>
+  <img src="/assets/images/fusion_diagram_for_medium.jpg" alt="青蛙前肢演化的幾種可能版本示意圖：完全分離、半融合、完全融合。研究發現，半融合的結構最適合跳躍時承受衝擊力。" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
+  <figcaption>圖4：青蛙前肢演化的幾種可能版本示意圖：完全分離、半融合、完全融合。研究發現，半融合的結構最適合跳躍時承受衝擊力</figcaption>
+</figure>
 
 為了驗證這個假說，研究人員掃描了多種蛙類的前臂骨，用 CT 掃描 建立 3D 模型，並設計出幾種不同版本模型，以下是最具代表性的三種版本：
 
@@ -75,15 +94,13 @@ excerpt: "大一生物實驗課上的一個發現：青蛙的前肢為什麼看�
 
 這種融合一方面提升骨骼強度，一方面減輕前肢負擔，在堅固與輕盈之間達成一種精妙的平衡。
 
-<!-- 插入圖片位置 -->
-
-那堂實驗課告訴我的
+## 那堂實驗課告訴我的
 
 我還記得那堂實驗課上，我那隻亂七八糟、黏滿熱熔膠的青蛙骨架。
 
 雖然我沒拼得多完美，但我卻記住了那根「看似少了一根」的骨頭。原來，在那根小小的骨頭裡，藏著的是生物數億年來，不斷試錯、調整、適應的痕跡。
 
-參考資料
+###參考資料
 
 Keeffe, R., & Blackburn, D. C. (2022). Diversity and function of the fused anuran radioulna. Journal of Anatomy, 241(4), 1026–1038. https://doi.org/10.1111/joa.13737
 
@@ -91,7 +108,7 @@ Clack, J. A. (2009). The Fish–Tetrapod Transition: New Fossils and Interpretat
 
 University of Maryland Department of Geology. (2025). GEOL 431 Vertebrate Paleobiology Lecture Notes: Stegocephali. Retrieved from https://www.geol.umd.edu/~jmerck/geol431/lectures/10stegocephali.html
 
-圖片授權
+###圖片授權
 
 Tiktaalik 化石插圖：由 Nobu Tamura 繪製，取自 Wikimedia Commons，授權方式為 CC BY-SA 3.0。圖片可修改、分享，惟需保留相同授權與署名。
 
