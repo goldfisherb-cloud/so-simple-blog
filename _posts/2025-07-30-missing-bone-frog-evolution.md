@@ -14,7 +14,7 @@ image: /assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg
 ---
 <img src="/assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg" alt="脊椎動物前肢結構的演化比較，展示了肉鰭魚、作為過渡化石的提塔利克魚（Tiktaalik），以及現代青蛙。突顯了在魚類到四足動物轉變過程中，從水生鰭條到承重肢體的轉化。
 這段文字描述的是一個關於脊椎動物演化的科學概念，說明了從水中生活的魚類如何逐漸演化出能夠在陸地上行走的四肢結構。提塔利克魚是一個重要的過渡化石，它展現了這個演化過程中的關鍵階段" style="width: 100%; height: auto; border-radius: 12px; margin-bottom: 1em;" />
-## 一堂實驗課
+## 一堂解剖青蛙實驗課
 
 大一的生物實驗課有這麼一堂，我們得解剖青蛙、觀察牠的骨骼，最後還要把那一堆骨頭拼回一隻「完整的青蛙」。
 
@@ -94,7 +94,7 @@ image: /assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg
 
 這種融合一方面提升骨骼強度，一方面減輕前肢負擔，在堅固與輕盈之間達成一種精妙的平衡。
 
-## 那堂實驗課告訴我的
+## 那堂解剖青蛙實驗課告訴我的
 
 我還記得那堂實驗課上，我那隻亂七八糟、黏滿熱熔膠的青蛙骨架。
 
