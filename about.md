@@ -24,10 +24,8 @@ permalink: /about/
 
 我們不一定會找到答案，
 但至少，我們曾經一起想過。
-(本網站文章都是真實的思考歷程，非AI生成，AI僅用文字修飾與資料查找)
+(本網站文章都是真實的思考歷程，非AI直接生成，AI僅用文字修飾與資料查找)
 
-如果你喜歡星球文章，也願意讓這顆星球繼續運轉，歡迎請我喝杯珍珠奶茶，支持我創作🥤
-https://thinkerplanet.bobaboba.me
 
 
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top: 40px; text-align: center;">
@@ -35,6 +33,12 @@ https://thinkerplanet.bobaboba.me
   <a href="mailto:thinkerplanet.contact@gmail.com" style="font-size: 1.2em; color: #3366cc; text-decoration: none; font-weight: bold;">
     thinkerplanet.contact@gmail.com
   </a>
+
+  <p style="font-size: 1em; margin-top: 20px;">
+  📡 如果你喜歡這顆思考者星球，願它繼續在宇宙繼續運轉，<br>
+  歡迎 <a href="https://thinkerplanet.boboba.me" target="_blank" style="color: #cc3366; font-weight: bold; text-decoration: none;">請我喝杯珍珠奶茶 🧋</a>，讓我繼續創作、繼續思考。
+</p>
+
 </div>
 
 <div style="text-align: center; margin-top: 40px;">
