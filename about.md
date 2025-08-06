@@ -34,9 +34,6 @@ permalink: /about/
   </a>
 </div>
 
----
----
-
 <div style="text-align: center; margin-top: 40px;">
   <picture>
     <img src="{{ '/assets/images/thinker-planet.png' | relative_url }}"
