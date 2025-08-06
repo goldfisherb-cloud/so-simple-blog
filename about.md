@@ -24,9 +24,11 @@ permalink: /about/
 
 我們不一定會找到答案，
 但至少，我們曾經一起想過。
+(本網站文章都是真實的思考歷程，非AI生成，AI僅用文字修飾與資料查找)
 
-本網站文章都是真實的思考歷程，非AI生成，AI僅用文字修飾與資料查找
----
+如果你喜歡星球文章，也願意讓這顆星球繼續運轉，歡迎請我喝杯珍珠奶茶，支持我創作🥤
+https://thinkerplanet.bobaboba.me
+
 
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.05); margin-top: 40px; text-align: center;">
   <p style="font-size: 1.1em; margin: 0 0 10px 0;">📮 想寫信給星球總管嗎？</p>
@@ -43,4 +45,3 @@ permalink: /about/
   </picture>
   <p style="font-size: 0.9em; color: #666; margin-top: 8px;">願我們在浩瀚中，一起思考。</p>
 </div>
-
