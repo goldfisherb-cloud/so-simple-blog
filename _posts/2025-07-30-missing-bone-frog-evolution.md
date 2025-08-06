@@ -100,7 +100,7 @@ image: /assets/images/fish-to-tetrapod-limb-evolution-tiktaalik-frog.jpg
 
 雖然我沒拼得多完美，但我卻記住了那根「看似少了一根」的骨頭。原來，在那根小小的骨頭裡，藏著的是生物數億年來，不斷試錯、調整、適應的痕跡。
 
-###參考資料
+### 參考資料
 
 Keeffe, R., & Blackburn, D. C. (2022). Diversity and function of the fused anuran radioulna. Journal of Anatomy, 241(4), 1026–1038. https://doi.org/10.1111/joa.13737
 
@@ -108,7 +108,7 @@ Clack, J. A. (2009). The Fish–Tetrapod Transition: New Fossils and Interpretat
 
 University of Maryland Department of Geology. (2025). GEOL 431 Vertebrate Paleobiology Lecture Notes: Stegocephali. Retrieved from https://www.geol.umd.edu/~jmerck/geol431/lectures/10stegocephali.html
 
-###圖片授權
+### 圖片授權
 
 Tiktaalik 化石插圖：由 Nobu Tamura 繪製，取自 Wikimedia Commons，授權方式為 CC BY-SA 3.0。圖片可修改、分享，惟需保留相同授權與署名。
 
